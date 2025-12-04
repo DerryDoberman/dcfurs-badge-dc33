@@ -25,9 +25,9 @@ If you want to try out the latest greatest build, you can navigate to the Action
 
 Follow the below steps to update your badge:
 
-1. (Optional) Plug in your badge and copy the python files to your local machine as a backup
+1. (Optional) Plug in your badge and copy the file structure from the drive that appears to your local machine as a backup
 2. Download the desired uf2 file from the releases
-3. Plug in the badge to your computer, a drive will appear but don't do anything with it just yet
+3. Plug in the badge to your computer
 4. While holding the boot button, press the reset button
 5. A new drive should appear named `RPI-RP2` with an `INDEX.HTM` and `INFO_U2F.txt` file, you can release the boot button at this point
 6. Copy the uf2 file to this drive, the device should automatically reboot
